@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Konjam Amudham - அறுசுவைக்கூடம்</title>
+
+  <meta name="description" content="Konjam Amudham Sweet Shop in Viluppuram. Traditional sweets made with pure ghee and authentic taste." />
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      background: #1a0c05;
+      color: white;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #120701;
+      padding: 15px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 2px solid #d4a437;
+      position: sticky;
+      top: 0;
+      z-index: 999;
+    }
+
+    .logo {
+      font-size: 34px;
+      font-weight: bold;
+      color: #f7c948;
+    }
+
+    .tagline {
+      font-size: 18px;
+      color: #f7c948;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+
+    .phone-btn {
+      background: #f7c948;
+      color: black;
+      padding: 12px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .hero {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
